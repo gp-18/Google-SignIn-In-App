@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844736514625",
+    "project_id": "checkify-57404",
+    "storage_bucket": "checkify-57404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844736514625:android:7648fe41b85ea3865f94c0",
+        "android_client_info": {
+          "package_name": "com.example.checkify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844736514625-b3h1hc8eomvp7fthp8o87mvf50onttfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2mi-gswj2tkI-oY-REsFFqYHuTeoolHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844736514625-b3h1hc8eomvp7fthp8o87mvf50onttfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
