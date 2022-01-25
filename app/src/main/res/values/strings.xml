@@ -2,4 +2,19 @@
     <string name="app_name">CHECKIFY</string>
     <string name="google_sign">GOOGLE SIGN</string>
     <string name="client_id">844736514625-b3h1hc8eomvp7fthp8o87mvf50onttfg.apps.googleusercontent.com</string>
+    <string name="welcome_to_checkify">WELCOME TO CHECKIFY</string>
+    <string name="todo">TODO</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="user_profile">USER PROFILE</string>
+    <string name="notes_app">NOTES APP</string>
+    <string name="textview">TextView</string>
+    <string name="signout_page">SIGNOUT PAGE</string>
+    <string name="rate_this_app">Rate This App</string>
+    <string name="button">Button</string>
+    <string name="sign_out_page">Sign Out Page</string>
+    <string name="signout">SIGNOUT</string>
+    <string name="submit_rating">Submit Rating</string>
+    <string name="enter_your_notes_here">Enter Your Notes Here</string>
+    <string name="button">Button</string>
+    <string name="submit">Submit</string>
 </resources>
